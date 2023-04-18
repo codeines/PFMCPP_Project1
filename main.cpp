@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dog                     // 1)
+//  action 1:   the dog barks           // 2)
+dog.bark();                             // 3)
+//  action 2:   the dog wags            // 2)
+dog.wag();                              // 3)
+//  action 3:   the dog chases a ball   // 2)
+dog.chaseBall();                        // 4)
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       girl                    // 1)
+//  action 1:   the girl loves flowers  // 2)
+girl.loveFlower();                      // 4)
+//  action 2:   the girl puts on makeup // 2)
+girl.putMakeup();                       // 4)
+//  action 3:   the girl gets pregnant  // 2)
+girl.getPregnant();                     // 4)
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       ocean                   // 1)
+//  action 1:   the ocean cleanses      // 2)
+ocean.cleanse();                        // 3)
+//  action 2:   the ocean sends waves   // 2)
+ocean.sendWave();                       // 4)
+//  action 3:   the ocean sustains life // 2)
+ocean.sustainLife();                    // 4)
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       snare drum              // 1)
+//  action 1:   the snare drum fills the room with noise
+snareDrum.fillRoomNoise();              // 4)
+//  action 2:   the snare drum resonates
+snareDrum.resonate();                   // 3)
+//  action 3:   the snare drum breaks   // 2)
+snareDrum.break();                      // 3)
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       hawaii                  // 1)
+//  action 1:   hawaii gives warmth     // 2)
+hawaii.giveWarmth();                    // 4)
+//  action 2:   hawaii helps tourism    // 2)
+hawaii.helpTourism();                   // 4)
+//  action 3:   hawaii creates a high cost of living
+hawaii.createHighCostLiving();          // 4)
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       student                 // 1)
+//  action 1:   the student studies     // 2)
+student.study();                        // 3)
+//  action 2:   the student gets drunk  // 2)
+student.getDrunk();                     // 4)
+//  action 3:   the student passes the test
+student.passTest();                     // 4)
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       buddha                  // 1)
+//  action 1:   the buddha meditates    // 2)
+buddha.meditate();                      // 3)
+//  action 2:   the buddha sits under a tree
+buddha.sitUnderTree();                  // 4)
+//  action 3:   the buddha becomes enlightened
+buddha.becomeEnlightened();             // 4)
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       clown                   // 1)
+//  action 1:   the clown makes a joke  // 2)
+clown.makeJoke();                       // 3)
+//  action 2:   the clown blows up a balloon
+clown.blowUpBallon();                   // 4)
+//  action 3:   the clown scares you in the dark
+clown.scareYouInDark();                 // 4)
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       butt                    // 1)
+//  action 1:   the butt farts          // 2)
+butt.fart();                            // 3)
+//  action 2:   the butt poops          // 2)
+butt.poop();                            // 3)
+//  action 3:   the butt smells         // 2)
+butt.smell();                           // 3)
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       black dildo             // 1)
+//  action 1:   the black dildo gives pleasure
+blackDildo.givePleasure();              // 4)
+//  action 2:   the black dildo lays around
+blackDildo.layAround();                 // 4)
+//  action 3:   the black dildo disintegrates
+blackDildo.disintegrate();              // 3)
 
 
 #endif

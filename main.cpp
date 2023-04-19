@@ -64,7 +64,7 @@ dog.chaseBall();                        // 4)
 //  action 1:   the girl loves flowers  // 2)
 girl.loveFlower();                      // 4)
 //  action 2:   the girl puts on makeup // 2)
-girl.putMakeup();                       // 4)
+girl.putOnMakeup();                       // 4)
 //  action 3:   the girl gets pregnant  // 2)
 girl.getPregnant();                     // 4)
 //  3)
@@ -108,13 +108,13 @@ buddha.sitUnderTree();                  // 4)
 //  action 3:   the buddha becomes enlightened
 buddha.becomeEnlightened();             // 4)
 //  8)
-//  Noun:       clown                   // 1)
-//  action 1:   the clown makes a joke  // 2)
-clown.makeJoke();                       // 3)
-//  action 2:   the clown blows up a balloon
-clown.blowUpBallon();                   // 4)
-//  action 3:   the clown scares you in the dark
-clown.scareYouInDark();                 // 4)
+//  Noun:       king cobra              // 1)
+//  action 1:   the king cobra eats snakes
+kingCobra.eatSnake();                   // 4)
+//  action 2:   the king cobra seeks solitude
+kingCobra.seekSolitude();               // 4)
+//  action 3:   the king cobra controls it's venom output
+kingCobra.controlVenomOutput();         // 4)
 //  9)
 //  Noun:       butt                    // 1)
 //  action 1:   the butt farts          // 2)
